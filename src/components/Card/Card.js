@@ -6,7 +6,7 @@ const Card = () => {
 		<article className="card">
 			<div className="card__image">
 				<div className="card__image-inner">
-					<img src={meetingImage} alt="" />
+					<img src={meetingImage} alt="People at a meeting" />
 				</div>
 			</div>
 			<div className="card__content">
